@@ -1,7 +1,6 @@
 [![MasterHead](https://webartdevelopers.com/blog/wp-content/uploads/2021/12/interactive-keyboard-animation.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ben Aicha Abderrhmane</h1>
 <h3 align="center">I am a frontend developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/89/77/11/1000_F_589771149_9gw8eKyV1FztAljpsomdGVfHg9sZd2c5.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrhman8benaicha&label=Profile%20views&color=0e75b6&style=flat" alt="abderrhman8benaicha" /> </p>
 
