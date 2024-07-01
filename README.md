@@ -1,4 +1,3 @@
-[![MasterHead](https://webartdevelopers.com/blog/wp-content/uploads/2021/12/interactive-keyboard-animation.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ben Aicha Abderrhmane</h1>
 <h3 align="center">I am a frontend developer from Algeria</h3>
 
